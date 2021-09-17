@@ -45,7 +45,7 @@
 
 
 ## 📱Contact
-![Web](https://img.shields.io/website-up-down-green-red/https/tomkowebstranky.sk.svg) -> www.tomkowebstranky.sk  
+![Web](https://badgen.net/badge/website/.sk/gray) -> www.tomkowebstranky.sk  
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -> tomko@tomkowebstranky.sk  
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) -> [+421950433386](+421950433386)  
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) -> [Vladimír Tomko](https://www.facebook.com/tomko.vlado/)  
