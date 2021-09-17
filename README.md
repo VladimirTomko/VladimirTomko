@@ -65,5 +65,5 @@
 ![PS](https://img.shields.io/badge/PlayStation_5-003791?style=for-the-badge&logo=playstation&logoColor=white)  
 ![CS](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)  
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)  
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)  
 ![Mercedes](https://aleen42.github.io/badges/src/mercedes_benz.svg) ♥️
