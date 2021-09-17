@@ -19,7 +19,43 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+## Technologies I want to learn this year:
+
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Basic understanding of:
+
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## 📱Contact
+![Web](https://img.shields.io/website-up-down-green-red/https/tomkowebstranky.sk.svg) -> www.tomkowebstranky.sk  
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -> tomko@tomkowebstranky.sk  
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) -> [+421950433386](+421950433386)  
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) -> [Vladimír Tomko](https://www.facebook.com/tomko.vlado/)  
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) -> [@vlado.tomko](https://www.instagram.com/vlado.tomko/)  || [@tomkowebstranky](https://www.instagram.com/tomkowebstranky/)    
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -> 
+
+## 💻 Workspace Spec
+![Macbook](https://img.shields.io/badge/Apple-MacBook_Pro_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
+
+## Profile Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=VladimirTomko&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirTomko&theme=blue-green)
+
+## Free time:
+![PS](https://img.shields.io/badge/PlayStation_5-003791?style=for-the-badge&logo=playstation&logoColor=white)  
+![CS](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)  
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)  
+![Mercedes](https://aleen42.github.io/badges/src/mercedes_benz.svg)
 <!--
 **VladimirTomko/VladimirTomko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
