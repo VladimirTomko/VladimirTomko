@@ -1,7 +1,7 @@
 # Hello World!🌍
 
 * My name is Vladimír Tomko
-* I am 19 years old boy from Rožňava, Slovakia 🇸🇰
+* I am 20 years old boy from Rožňava, Slovakia 🇸🇰
 * I am a hardworking and ambitious individual with a great passion for the IT industry. 🙋‍♂️
 * I am currently in my first year at Masaryk university in Brno. 🏫  
 * I have excellent communication skills, enabling me to effectively communicate with a wide range of people. 🗣
