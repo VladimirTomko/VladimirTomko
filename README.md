@@ -1,11 +1,12 @@
 # Hello World!🌍
 
 * My name is Vladimír Tomko
-* I am 20 years old boy from Rožňava, Slovakia 🇸🇰
+* I am 20 years old male from Bratislava, Slovakia 🇸🇰
 * I am a hardworking and ambitious individual with a great passion for the IT industry. 🙋‍♂️
-* I am currently in my first year at Masaryk university in Brno. 🏫  
+* I am currently studying Cybersecurity @ PaneuroUNI, Bratislava. 🏫  
 * I have excellent communication skills, enabling me to effectively communicate with a wide range of people. 🗣
-* I am looking for a full-time or part-time position in the industry in which I can put my knowledge and experience into practice, ultimately benefiting the operations of the organisation that I work for. 🏦
+* I am currently working for Schneider Electric as React Native Developer
+* I am looking for any projects or ideas in the IT industry in which I can put my knowledge and experience into practice, ultimately benefiting both sides. 🏦
 
  
 ## Most of my projects are made with:
