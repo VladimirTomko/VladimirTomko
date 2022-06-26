@@ -86,10 +86,6 @@
 ![Macbook](https://img.shields.io/badge/Apple-MacBook_Pro_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![Mac Studio](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
-## Profile Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=VladimirTomko&theme=blue-green)  
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirTomko&theme=blue-green)
-
 ## Free time:
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
