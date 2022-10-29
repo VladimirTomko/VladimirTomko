@@ -1,7 +1,7 @@
 # Hello World!🌍
 
 * My name is Vladimír Tomko
-* I am 20 years old male from Bratislava, Slovakia 🇸🇰,
+* I am 21 years old male from Bratislava, Slovakia 🇸🇰,
 * I am a founder of a marketing company BeCode, which helps people achieve their success in on-line world
 * I am a hardworking and ambitious individual with a great passion for the IT industry. 🙋‍♂️
 * I am currently studying Cybersecurity @ PaneuroUNI, Bratislava. 🏫  
