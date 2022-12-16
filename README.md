@@ -6,7 +6,7 @@
 * I am a hardworking and ambitious individual with a great passion for the IT industry. 🙋‍♂️
 * I am currently studying Cybersecurity @ PaneuroUNI, Bratislava. 🏫  
 * I have excellent communication skills, enabling me to effectively communicate with a wide range of people. 🗣
-* I am currently working for Schneider Electric as React Native Developer
+* I am currently working for Simplicity as React Native Developer
 * I am looking for any projects or ideas in the IT industry in which I can put my knowledge and experience into practice, ultimately benefiting both sides. 🏦
 
  
