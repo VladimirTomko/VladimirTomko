@@ -1,13 +1,12 @@
 # Hello World!🌍
 
-* My name is Vladimír Tomko
-* I am 21 years old male from Bratislava, Slovakia 🇸🇰,
-* I am a founder of a marketing company BeCode, which helps people achieve their success in on-line world
-* I am a hardworking and ambitious individual with a great passion for the IT industry. 🙋‍♂️
-* I am currently studying Cybersecurity @ PaneuroUNI, Bratislava. 🏫  
-* I have excellent communication skills, enabling me to effectively communicate with a wide range of people. 🗣
-* I am currently working for Simplicity as React Native Developer
-* I am looking for any projects or ideas in the IT industry in which I can put my knowledge and experience into practice, ultimately benefiting both sides. 🏦
+Hi there! My name is Vladimír Tomko and I am a 21 year old male from Bratislava, Slovakia. I am currently studying Cybersecurity at PaneuroUNI in Bratislava and also work as a React Native Developer for Simplicity.
+
+In addition to my studies and work, I am also the founder of a software development company called BeCode where we accept every challenge. We help people succeed in the online world by creating custom software solutions for their needs. I am a driven and ambitious individual with a passion for the IT industry and enjoy using my knowledge and experience to benefit both myself and others through projects and ideas in the industry.
+
+I am skilled in a variety of programming languages and technologies, including JavaScript, React, React Native, TypeScript, Node.js, Redux, React Router, Next.js, MongoDB, Firebase, Chakra, NPM, Python, Nginx, and Git. I am also familiar with HTML5, CSS3, and SQL.
+
+I have strong communication skills and am able to effectively communicate with a wide range of people. Thank you for visiting my GitHub profile. I hope to work with you in the future!
 
  
 ## Most of my projects are made with:
