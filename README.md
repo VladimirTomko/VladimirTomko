@@ -76,7 +76,7 @@ I have strong communication skills and am able to effectively communicate with a
 ## 📱Contact
 * ![Web](https://badgen.net/badge/website/.sk/gray) -> www.becode.sk
 * ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -> info@becode.sk
-* ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) -> [+421950433386](+421950433386)  
+* ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) -> [+421 951 001 057](+421 951 001 057)  
 * ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) -> [Vladimír Tomko](https://www.facebook.com/tomko.vlado/)  
 * ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) -> [@vlado.tomko](https://www.instagram.com/vlado.tomko/) [@becode.sro](https://www.instagram.com/becode.sro/)    
 * ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -> [tomkovladko](https://www.linkedin.com/in/tomkovladko/)  
