@@ -1,7 +1,5 @@
 # Vladimír Tomko - Cybersecurity Student, React Native Developer & Founder of BeCode
 
-![GitHub Banner](./assets/banner.png)
-
 ## 👋 Welcome to my GitHub profile!
 
 My name is Vladimír Tomko, a 21-year-old Cybersecurity student from Bratislava, Slovakia. I am highly skilled in various programming languages and technologies and have a strong passion for the IT industry.
