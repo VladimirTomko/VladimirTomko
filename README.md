@@ -78,10 +78,6 @@ As the company expanded, we added talented professionals to our team, including 
 - 📄 CV: [Download PDF](https://becode.sk/vladimir-tomko-cv.pdf)
 
 
-## 📊 GitHub Stats
-
-![Vladimír's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimirtomko&show_icons=true&theme=dracula)
-
 ## 🤝 Let's Connect
 
 I am excited to work with you on any projects you may have in mind. Don't hesitate to reach out, and thank you for visiting my GitHub profile!
