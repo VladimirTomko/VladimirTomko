@@ -73,7 +73,7 @@ As the company expanded, we added talented professionals to our team, including 
 ### 📫 How to reach me
 
 - 📧 Email: [info@becode.sk](mailto:info@becode.sk)
-- 💼 LinkedIn: [https://www.linkedin.com/in/tomkovladko/](https://www.linkedin.com/in/vladimír-tomko](https://www.linkedin.com/in/tomkovladko/))
+- 💼 LinkedIn: [https://www.linkedin.com/in/tomkovladko/](https://www.linkedin.com/in/tomkovladko/)
 - 🌐 Website: [becode.sk](https://becode.sk)
 - 📄 CV: [Download PDF](https://becode.sk/vladimir-tomko-cv.pdf)
 
