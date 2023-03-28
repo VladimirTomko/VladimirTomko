@@ -76,6 +76,8 @@ As the company expanded, we added talented professionals to our team, including 
 - 💼 LinkedIn: [https://www.linkedin.com/in/tomkovladko/](https://www.linkedin.com/in/tomkovladko/)
 - 🌐 Website: [becode.sk](https://becode.sk)
 - 📄 CV: [Download PDF](https://becode.sk/vladimir-tomko-cv.pdf)
+- 📞 Phone: [+421 951 001 057](tel:+421 951 001 057)
+
 
 
 ## 🤝 Let's Connect
