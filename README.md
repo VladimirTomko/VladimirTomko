@@ -2,7 +2,7 @@
 
 ## 👋 Welcome to my GitHub profile!
 
-My name is Vladimír Tomko, a 21-year-old Cybersecurity student from Bratislava, Slovakia. I am highly skilled in various programming languages and technologies and have a strong passion for the IT industry.
+As a dedicated and detail-oriented developer, I am committed to continuously expanding my knowledge and experience to provide innovative and effective solutions for my clients. I am constantly seeking new challenges and opportunities to push the boundaries of what I can achieve. My passion for the IT industry and desire to make a difference drives me to deliver top-quality work and exceed expectations. With a strong foundation in programming languages and technologies, I am confident in my ability to tackle any project and produce outstanding results.
 
 ### 🎓 Education
 
