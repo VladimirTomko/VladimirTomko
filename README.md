@@ -56,11 +56,11 @@ As the company expanded, we added talented professionals to our team, including 
 
 - **Front-end:** JavaScript, React, TypeScript, HTML5, CSS3
 - **Mobile:** React Native
-- **Back-end:** Node.js, Express, MongoDB, Firebase, SQL, GraphQL
-- **Libraries & Frameworks:** Redux, React Router, Next.js, Chakra UI
+- **Back-end:** Node.js, Express, MongoDB, Firebase, SQL, GraphQL, NestJS
+- **Libraries & Frameworks:** Redux, React Router, Next.js, Chakra UI, MUI
 - **Tools:** NPM, Python, Nginx, Git, Jira, GitHub, Docker, Jenkins, Agile/Scrum
 - **Version Control Systems:** Git, GitHub, GitLab, Bitbucket
-- **CI/CD:** Jenkins
+- **CI/CD:** Jenkins, Code Pipeline, Github Actions
 
 
 ### 🌐 Languages
